@@ -1,0 +1,19 @@
+<resources>
+
+
+    <string name="app_name">ex01</string>
+    <string name="salut_ce_faci"> <h1> <u> <b> Salut! Ce faci? </b> </u> </h1>
+        <h2> Care este treaba? </h2>
+
+        <h3> Functioneaza ? </h3>
+
+        <![CDATA[<p> Nu prea functioneaza <p>]]>
+
+        <p>  Nu prea funtioneaza </p>
+
+
+
+
+    </string>
+
+</resources>
